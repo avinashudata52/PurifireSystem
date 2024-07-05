@@ -32,10 +32,7 @@ DELIMITER ;
 
 -- --------------------------------------------------------
 
---
 -- Table structure for table `item_master`
---
-
 CREATE TABLE `item_master` (
   `id` int(11) NOT NULL,
   `dt` varchar(50) DEFAULT '0',
