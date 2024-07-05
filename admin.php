@@ -6,7 +6,7 @@
 </head>
 <body class="hold-transition sidebar-mini layout-fixed" onLoad="showGraph1();showGraph();">
 <div class="wrapper">
-
+	
   <!-- Navbar -->
   <nav class="main-header navbar navbar-expand navbar-white navbar-light">
     <!-- Left navbar links -->
