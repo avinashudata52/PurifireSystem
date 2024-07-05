@@ -81,7 +81,6 @@
 
       <div class="social-auth-links text-center">
         <p>- OR -</p>
-        
         <a href="index.php" class="btn btn-block btn-success">I already have a membership</a>
       </div>
     </div>
