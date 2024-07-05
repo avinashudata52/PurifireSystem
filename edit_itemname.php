@@ -12,7 +12,6 @@
     {
         elem.value = elem.value.toUpperCase();
     }
-	
 	function chkState()
 	{
 		if(document.getElementById("txtmh").checked == true)
