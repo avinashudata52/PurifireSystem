@@ -24,7 +24,6 @@
   <div class="register-logo">
     <a href="#"><b>Water</b> Purifier</a>
   </div>
-
   <div class="card">
     <div class="card-body register-card-body">
       <p class="login-box-msg">Register a new membership</p>
